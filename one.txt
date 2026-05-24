@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am the number one
+=======
+I am the number one and so cool and clever
+>>>>>>> e9a90d2f355a75d862eeb0b4649ef68c1ea3f56e
